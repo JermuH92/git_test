@@ -1,1 +1,2 @@
 Hello world, practising Git with Odin Project
+VS Code default commit message test
